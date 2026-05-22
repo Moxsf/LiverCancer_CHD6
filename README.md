@@ -8,7 +8,7 @@ Aberrant tumor vasculature drives a vicious cycle of severe hypoxia and immunosu
 
 ## **Raw and Processed Data** 
 
-The data are available from the Gene Expression Omnibus (GEO) database under accession number GSExxx (scRNA-seq), GSExxx (RNA-seq), GSExxx (ATAC-seq), GSExxx (CUT&Tag-seq), .
+The data are available from the Gene Expression Omnibus (GEO) database under accession number GSExxx (scRNA-seq), GSExxx (RNA-seq), GSExxx (ATAC-seq), GSExxx (CUT&Tag-seq).
 
 ## Citation
 
