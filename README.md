@@ -8,11 +8,11 @@ Aberrant tumor vasculature drives a vicious cycle of severe hypoxia and immunosu
 
 ## **Raw and Processed Data** 
 
-The data are available from the Gene Expression Omnibus (GEO) database under accession number GSExxx (scRNA-seq), GSExxx (RNA-seq), GSExxx (ATAC-seq), GSExxx (CUT&Tag-seq).
+The data are available from the Gene Expression Omnibus (GEO) database under accession number GSE333753 (scRNA-seq), GSE333752 (RNA-seq), GSE333487 (ATAC-seq), GSE333750 (CUT&Tag-seq).
 
 ## Citation
 
-Min Zhang, *et al*. CHD6 drives an immunosuppressive vascular ecotype and therapy resistance in hepatocellular carcinoma. (2026)
+Min Zhang, *et al*. Tumor-intrinsic CHD6 drives a pathogenic vascular-immune 1 cascade to limit therapeutic efficacy in hepatocellular carcinoma. (2026)
 
 ## Contact
 
